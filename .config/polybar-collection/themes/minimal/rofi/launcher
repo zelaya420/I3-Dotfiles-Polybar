@@ -7,5 +7,4 @@ rofi \
 	-drun-display-format "{name}" \
 	-no-drun-show-actions \
 	-terminal kitty \
-	-theme "$HOME"/.config/polybar-collection/themes/minimal/rofi/pp.rasi
-
+	-theme "$HOME"/polybar-collection/themes/minimal/rofi/launcher.rasi
